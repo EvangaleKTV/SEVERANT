@@ -8,6 +8,8 @@ SEVERANT-0 is operational. The working prototype demonstrates the core architect
 
 This is the foundation everything else is built on.
 
+Note: Phases 1 and 2 represent the current and near-term research horizon. Phases 3 through 5 describe the long-term architectural vision. The facility, fabrication, and infrastructure language in later phases describes the eventual target at scale, not near-term procurement plans. Current build status is documented in README.md.
+
 ## Phase 1 — Foundation
 
 **Status: Active**
